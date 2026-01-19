@@ -1,0 +1,107 @@
+B6_1_pair_Exp20251117.annot:
+  Batch_id: B6
+  Cage_id: 'C1'
+  Cond_id: Pair
+  Mouse_id:
+    - SF1
+    - WT
+  Rank_id:
+    - Sub
+    - Dom
+  Phase_id: WithRat
+
+
+B6_1_Sub_single_Exp20251118.annot:
+  Batch_id: B6
+  Cage_id: 'C1'
+  Cond_id: Single
+  Mouse_id:
+    - SF1
+  Rank_id:
+    - Sub
+  Phase_id: WithRat
+
+
+mouseB6_4_SF1_1b_FPS20_2channel.annot:
+  Batch_id: B6
+  Cage_id: 'C4'
+  Cond_id: Pair
+  Mouse_id:
+    - SF1
+    - WT
+  Rank_id:
+    - Sub
+    - Dom
+  Phase_id: WithRat
+
+B6_C1_Pair_WithRat_labels.csv:
+  Batch_id: B6
+  Cage_id: 'C1'
+  Cond_id: Pair
+  Mouse_id:
+    - SF1
+    - WT
+  Rank_id:
+    - Sub
+    - Dom
+  Phase_id: WithRat
+
+
+B6_C1_Single_WithRat_labels.csv:
+  Batch_id: B6
+  Cage_id: 'C1'
+  Cond_id: Single
+  Mouse_id:
+    - SF1
+  Rank_id:
+    - Sub
+  Phase_id: WithRat
+
+
+B6_C4_Pair_WithRat_labels.csv:
+  Batch_id: B6
+  Cage_id: 'C4'
+  Cond_id: Pair
+  Mouse_id:
+    - SF1
+    - WT
+  Rank_id:
+    - Sub
+    - Dom
+  Phase_id: WithRat
+
+Video_20251117122147574DLC_DlcrnetStride32Ms5_kpms-madlcDec16shuffle1_snapshot_best-175_el.h5:
+  Batch_id: B6
+  Cage_id: 'C1'
+  Cond_id: Pair
+  Mouse_id:
+    - SF1
+    - WT
+  Rank_id:
+    - Sub
+    - Dom
+  Phase_id: WithRat
+
+
+Video_20251118133231752DLC_HrnetW32_kpms-dlcDec16shuffle1_detector_best-30_snapshot_best-20.h5:
+  Batch_id: B6
+  Cage_id: 'C1'
+  Cond_id: Single
+  Mouse_id:
+    - SF1
+  Rank_id:
+    - Sub
+  Phase_id: WithRat
+
+
+Video_20251106135549021DLC_DlcrnetStride32Ms5_kpms-madlcDec16shuffle1_snapshot_best-175_el.h5:
+  Batch_id: B6
+  Cage_id: 'C4'
+  Cond_id: Pair
+  Mouse_id:
+    - SF1
+    - WT
+  Rank_id:
+    - Sub
+    - Dom
+  Phase_id: WithRat
